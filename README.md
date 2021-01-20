@@ -1,4 +1,4 @@
-# learnSoftwareEngineering
+# Learning Software Engineering
 This page is to track all the learning resources I use
 
 ## Dynamo DB ( nosql)
