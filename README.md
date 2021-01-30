@@ -10,3 +10,6 @@ Medium post: https://medium.com/@narengowda/designing-the-caching-system-e42c693
 https://www.8bitmen.com/instagram-architecture-how-does-it-store-search-billions-of-images/
 ## Redis Basic
 https://www.youtube.com/watch?v=Hbt56gFj998&ab_channel=TraversyMedia
+## System Design instagram
+https://medium.com/@dingdingsherrywang/system-design-instagram-4658eeb0423a
+https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
