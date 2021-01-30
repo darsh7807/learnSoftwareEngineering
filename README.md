@@ -8,3 +8,5 @@ Youtube vedio talks about the DDB acess patterns: AWS re:Invent 2018: Amazon Dyn
 Medium post: https://medium.com/@narengowda/designing-the-caching-system-e42c6938df6a
 ## Instagram Architecture & Database – How Does It Store & Search Billions of Images
 https://www.8bitmen.com/instagram-architecture-how-does-it-store-search-billions-of-images/
+## Redis Basic
+https://www.youtube.com/watch?v=Hbt56gFj998&ab_channel=TraversyMedia
