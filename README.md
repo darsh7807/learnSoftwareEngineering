@@ -16,3 +16,5 @@ https://medium.com/@dingdingsherrywang/system-design-instagram-4658eeb0423a
 https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
 ## Distributed Systems in One Lesson by Tim Berglund
 https://www.youtube.com/watch?v=Y6Ev8GIlbxc&ab_channel=DevoxxPoland
+## Load balancing 
+https://kumarswapnil.medium.com/thanks-for-pointing-out-rectified-3f79e62ba298 
