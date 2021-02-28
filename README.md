@@ -20,6 +20,9 @@ https://www.youtube.com/watch?v=Y6Ev8GIlbxc&ab_channel=DevoxxPoland
 https://kumarswapnil.medium.com/thanks-for-pointing-out-rectified-3f79e62ba298 
 ## Miscellaneous 
 https://medium.com/the-cloud-architect/patterns-for-resilient-architecture-part-3-16e8601c488e
+
 https://acloudguru.com/blog/engineering/the-quest-for-availability?utm_source=medium_blog&utm_medium=redirect&utm_campaign=medium_blog
+
 https://medium.com/the-cloud-architect/why-and-how-do-we-build-a-multi-region-active-active-architecture-6d81acb7d208
+
 https://www.youtube.com/watch?v=0qotVMX-J5s&ab_channel=IBMCloud
